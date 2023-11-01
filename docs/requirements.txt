@@ -3,3 +3,4 @@ Sphinx==1.5.3
 sphinx-autobuild==0.7.1
 # Docs template
 http://graphene-python.org/sphinx_graphene_theme.zip
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
